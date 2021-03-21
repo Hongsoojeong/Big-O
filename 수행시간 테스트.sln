@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "수행시간 테스트", "수행시간 테스트\수행시간 테스트.pyproj", "{E0F6B389-CCA5-40B2-A28D-EF7B25F34A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F6B389-CCA5-40B2-A28D-EF7B25F34A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F6B389-CCA5-40B2-A28D-EF7B25F34A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {431017F5-56F5-4B7E-9738-6BBEB4E796D2}
+	EndGlobalSection
+EndGlobal
